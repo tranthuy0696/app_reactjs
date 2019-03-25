@@ -1,0 +1,13 @@
+ul.menufooter li{
+    margin: 0 10px;
+    display: inline-block
+  }
+
+ul.menufooter{
+      float: right;
+  }
+
+ ul.menufooter li a{
+      font-size: 1.5em;
+      color: #fff;
+  }
